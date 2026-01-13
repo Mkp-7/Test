@@ -16,18 +16,14 @@ This repository contains a **Power BI dashboard** designed to analyze and visual
 
 ## Files in this Repository
 - `Sales_Analysis_Dashboard.pbix`: Power BI dashboard file  
-- `Screenshots/`: PDF exports of dashboards for quick viewing  
+- `Dashboard pdf`: PDF exports of dashboards for quick viewing  
 - `README.md`: Project documentation  
-- `[Optional] Dataset files`: CSV/Excel files used in the dashboard  
+ 
 
 ## Getting Started
 To view and interact with the dashboard locally:  
 1. Download the `.pbix` file.  
 2. Open it using **Power BI Desktop** (free version).  
-
-To view dashboards without Power BI Desktop:  
-- Open the PDFs in the `Screenshots/` folder.  
-- Or, if published online, use the **Power BI Publish to Web** link for interactive access.
 
 ## Author
 Mukund Patel  
